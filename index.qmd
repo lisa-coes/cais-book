@@ -8,7 +8,7 @@ toc: false
 
 La Encuesta "Ciencia Abierta en Investigación Social" (CAIS) es un estudio diseñado para conocer el estado de la Ciencia Abierta en Ciencias Sociales en Chile.
 
-La encuesta fue diseñada por investigadores del proyecto [LISA](lisa-coes.com), dirigido por [Juan Carlos Castillo](https://jc-castillo.com/), profesor asociado del Departamento de Sociología de la Universidad de Chile [(FACSO-UCH)](https://facso.uchile.cl/) e investigador principal del Centro de Estudios del Conflicto y Cohesión Social [(COES)](https://coes.cl/). Este proyecto ha sido financiado por el proyecto minicoes "Prácticas, Creencias y Conocimiento en Ciencia Abierta: Propuestas para las ciencias sociales" del Centro de Estudios de Conflicto y Cohesión Social (COES). La recolección de datos de CAIS ha sido realizada mediante la plataforma abierta [formr.org](https://formr.org).
+La encuesta fue diseñada por investigadores del proyecto [LISA](https://lisa-coes.com/), dirigido por [Juan Carlos Castillo](https://jc-castillo.com/), profesor asociado del Departamento de Sociología de la Universidad de Chile [(FACSO-UCH)](https://facso.uchile.cl/) e investigador principal del Centro de Estudios del Conflicto y Cohesión Social [(COES)](https://coes.cl/). Este proyecto ha sido financiado por el proyecto minicoes "Prácticas, Creencias y Conocimiento en Ciencia Abierta: Propuestas para las ciencias sociales" del Centro de Estudios de Conflicto y Cohesión Social (COES). La recolección de datos de CAIS ha sido realizada mediante la plataforma abierta [formr.org](https://formr.org).
 
 Este proyecto también han participado:
 

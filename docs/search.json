@@ -34,7 +34,7 @@
     "href": "02-database.html#algunas-informaciones-generales",
     "title": "2  Base de datos",
     "section": "",
-    "text": "Cantidad de personas que respondieron la encuesta completa:\nCantidad de personas que respondieron el 75% de la encuesta:\nCantidad de personas que respondieron el 50% de la encuesta:\nCantidad de personas que respondieron el 25% de la encuesta:",
+    "text": "Cantidad de personas que respondieron la encuesta completa: 50\nCantidad de personas que respondieron el 75% de la encuesta: 97\nCantidad de personas que respondieron el 50% de la encuesta: 106\nCantidad de personas que respondieron el 25% de la encuesta: 147\nCantidad de personas que respondieron el módulo opcional sobre aceleración académica: 45",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Base de datos</span>"
     ]

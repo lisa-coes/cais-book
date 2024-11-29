@@ -7,11 +7,11 @@ editor: source
 
 La base de datos se encuentra disponible para libre descarga en el repositorio github del proyecto.
 
-- [Repositorio del proyecto LISA](github.com/lisa-coes)
+- [Repositorio del proyecto LISA](https://github.com/lisa-coes)
 
-- [Repositorio de este documento](github.com/lisa-coes/cais-book)
+- [Repositorio de este documento](https://github.com/lisa-coes/cais-book)
 
-- [Link directo de descarga de la base de datos](github.com/lisa-coes/cais-book/input/data/original/cais.RData)
+- [Link directo de descarga de la base de datos](https://github.com/lisa-coes/cais-book/raw/refs/heads/main/input/data/original/cais.RData)
 
 ## Algunas informaciones generales
 
@@ -19,10 +19,12 @@ La base de datos cuenta con 150 respuestas, que corresponden a la totalidad de p
 
 Sin embargo, el desglose aproximado de respuestas completas es el siguiente:
 
-- Cantidad de personas que respondieron la encuesta completa: 
+- Cantidad de personas que respondieron la encuesta completa: 50 
 
-- Cantidad de personas que respondieron el 75% de la encuesta:
+- Cantidad de personas que respondieron el 75% de la encuesta: 97
 
-- Cantidad de personas que respondieron el 50% de la encuesta:
+- Cantidad de personas que respondieron el 50% de la encuesta: 106
 
-- Cantidad de personas que respondieron el 25% de la encuesta:
+- Cantidad de personas que respondieron el 25% de la encuesta: 147
+
+- Cantidad de personas que respondieron el módulo opcional sobre aceleración académica: 45
