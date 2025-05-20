@@ -2,9 +2,6 @@
 pagetitle: Partial preview
 ---
 
-
-
-
 ### Codebook table
 
-figure/items__items-1.pdf
+figure/items\_\_items-1.pdf

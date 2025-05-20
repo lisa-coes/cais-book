@@ -23,6 +23,7 @@ book:
     - 01-antecedents.qmd
     - 02-database.qmd
     - 03-codebook.qmd
+    - 04-results.qmd
   search:
     location: sidebar
     type: textbox
