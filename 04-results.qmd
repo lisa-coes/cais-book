@@ -53,7 +53,7 @@ cais_v2 <- cais %>%
          etapa = as_label(etapa0),
          enfoq = as_label(enfoq0))
   
-legend = "Fuente CAIS (2024), N = 70."
+legend = "Fuente CAIS (2024), N = 144."
 
 cais_test_annos <- cais_v2 %>% 
   select(mod01_1, mod08_1)
